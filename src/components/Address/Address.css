@@ -1,0 +1,48 @@
+
+
+.Address {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #0e0c0c;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(182, 34, 34, 0.543);
+    text-align: center;
+  }
+  
+  .Address__text {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+  
+  .Address__input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 12px;
+    border: 1px solid #000000;
+    border-radius: 3px;
+  }
+  
+  .Address__button {
+    background-color: #007bff;
+    color: #0b0808;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .Address__button:hover {
+    background-color: #0056b3;
+  }
+  
+
+  .Address__input select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 12px;
+    border: 1px solid #000000;
+    border-radius: 3px;
+  }
+  
